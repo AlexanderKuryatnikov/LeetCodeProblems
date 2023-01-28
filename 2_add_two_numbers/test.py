@@ -4,37 +4,37 @@ from solution import ListNode, solution
 
 
 TEST_VALUES = {
-    "1: numbers with equal length": [
+    '1: numbers with equal length': [
         [2, 4, 3],
         [5, 6, 4],
         [7, 0, 8]
     ],
-    "2: two zeros": [
+    '2: two zeros': [
         [0],
         [0],
         [0]
     ],
-    "3: first zero": [
+    '3: first zero': [
         [0],
         [1, 2, 3],
         [1, 2, 3]
     ],
-    "4: second zero": [
+    '4: second zero': [
         [1, 2, 3],
         [0],
         [1, 2, 3]
     ],
-    "5: extra digit, first number bigger": [
+    '5: extra digit, first number bigger': [
         [9, 9, 9, 9, 9, 9, 9],
         [9, 9, 9, 9],
         [8, 9, 9, 9, 0, 0, 0, 1]
     ],
-    "6: extra digit, second number bigger": [
+    '6: extra digit, second number bigger': [
         [9, 9, 9, 9],
         [9, 9, 9, 9, 9, 9, 9],
         [8, 9, 9, 9, 0, 0, 0, 1]
     ],
-    "7: extra digit, equal length": [
+    '7: extra digit, equal length': [
         [9, 9, 9],
         [9, 9, 9],
         [8, 9, 9, 1]
