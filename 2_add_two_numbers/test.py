@@ -1,6 +1,8 @@
 from typing import List
 
-from solution import ListNode, solution
+from solution import ListNode, Solution
+
+solution = Solution()
 
 
 TEST_VALUES = {

@@ -8,6 +8,3 @@ class Solution:
                 + seq[i - 3]
             )
         return seq[n]
-
-
-solution = Solution()

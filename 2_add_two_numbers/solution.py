@@ -41,6 +41,3 @@ class Solution:
             l1.next = ListNode(val=next_place_value)
 
         return sum_l
-
-
-solution = Solution()

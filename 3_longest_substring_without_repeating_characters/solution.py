@@ -26,6 +26,3 @@ class Solution:
                 max_sub_len = sub_len
 
         return max_sub_len
-
-
-solution = Solution()

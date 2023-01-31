@@ -1,4 +1,6 @@
-from solution import solution
+from solution import Solution
+
+solution = Solution()
 
 
 TEST_VALUES = {

@@ -31,6 +31,3 @@ class Solution:
             i += 2 * numRows - 2
 
         return ''.join(new_s)
-
-
-solution = Solution()
